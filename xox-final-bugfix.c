@@ -163,7 +163,7 @@ int main (void){
         if(s==10){
             system("cls");
             yaz();
-            printf("\nBERABERE");
+            printf("\nBERABERE\n");
             system("pause");
             for(i=0;i<=2;i++){
                 for(b=0;b<=2;b++){
